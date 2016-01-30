@@ -26,3 +26,4 @@ Some restrictions still remain. Based on feedback collected by Margus Ernits, se
 
 The course itself will cover the basics of monitoring network traffic using IDS/IPS solutions. Central collection, correlation and visualization of log data to gain insights into what's happening in the infrastructure. Finally rule creation for both IDS solutions and log correlation tools are covered that stop or detect simulated attacks. In this final part the student has the ability to get immediate feedback, since they are writing rules to detect simulated attacks that are automatically done during the same lab session. Do the right thing and you detect the attack, thereby completing an objective.
 
+Upon completion of the course, the learner should be able to set up the neccessary components of a basic monitoring infrastructure and utilize them to detect cyber attacks.
