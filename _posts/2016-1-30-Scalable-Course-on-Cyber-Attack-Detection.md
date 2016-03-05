@@ -6,7 +6,7 @@ published: true
 
 
 
-Author: Andres Elliku 144009IVCM  
+Author: Andres Elliku  
 Supervisor: Margus Ernits
 
 Due to the ever increasing range and complexity of threats in cyberspace, detection becomes an increasingly vital part of an organization's cyber security program. Even with well defended networks we see time and time again that only preventative measures are not enough to get the job done.
